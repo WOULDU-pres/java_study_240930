@@ -17,6 +17,7 @@ public class Hello2 {
 			money = money * 0.7;
 			
 			System.out.println(money);
+
 		}
 	}
 
