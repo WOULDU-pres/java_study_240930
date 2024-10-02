@@ -9,7 +9,8 @@ public class Op_RelationalOperator {
 		System.out.println(a < b);
 		System.out.println(a = b);
 		System.out.println(a >= b);
-		
+		System.out.println(a != b);
+
 	}
 
 }

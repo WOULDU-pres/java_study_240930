@@ -21,7 +21,6 @@ public class PrimitiveTypeTest {
 		BigDecimal bd1 = new BigDecimal("2");
 		BigDecimal bd2 = new BigDecimal("1.1");
 		System.out.println(bd1.subtract(bd2));
-
 		
 	}
 

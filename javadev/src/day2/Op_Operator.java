@@ -19,5 +19,7 @@ public class Op_Operator {
 		System.out.println(a + "/" + b + "=" + ((double)a/b));
 		System.out.println(a + "%" + b + "=" + (a%b));
 		System.out.println("End");
+			
+		
 	}
 }
