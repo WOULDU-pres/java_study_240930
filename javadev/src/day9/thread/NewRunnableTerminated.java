@@ -20,7 +20,6 @@ public class NewRunnableTerminated {
 		state = myThread.getState()	;
 		System.out.println("myThread state = " + state);
 		
-		
 		try {
 			myThread.join();
 		} catch (InterruptedException e) {}
